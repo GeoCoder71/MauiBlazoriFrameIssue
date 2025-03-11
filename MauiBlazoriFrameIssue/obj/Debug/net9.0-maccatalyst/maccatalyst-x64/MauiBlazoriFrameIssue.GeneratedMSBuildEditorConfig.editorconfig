@@ -1,8 +1,4 @@
 is_global = true
-build_property.EnableAotAnalyzer = 
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = false
-build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net9.0-maccatalyst
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -13,76 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MauiBlazoriFrameIssue
 build_property.RootNamespace = MauiBlazoriFrameIssue
-build_property.ProjectDir = /Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/
+build_property.ProjectDir = /Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue
+build_property.MSBuildProjectDirectory = /Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/App.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiBlazoriFrameIssue.App.xaml
-build_metadata.AdditionalFiles.TargetPath = App.xaml
-build_metadata.AdditionalFiles.RelativePath = App.xaml
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiBlazoriFrameIssue.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Routes.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/_Imports.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-5xb6int82r
 
-[/Users/mark/MyProjects/Repos/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.GenKind = 
-build_metadata.AdditionalFiles.ManifestResourceName = 
+[/Users/macbookair/MyProjects/Tests/MauiBlazoriFrameIssue/MauiBlazoriFrameIssue/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-nlrnjgpa18

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiBlazoriFrameIssue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8f0a606f34642a0001da81cf8850e20f9bde8251")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiBlazoriFrameIssue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiBlazoriFrameIssue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
